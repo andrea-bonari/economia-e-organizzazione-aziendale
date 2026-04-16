@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Impresa/Impresa.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Impresa"
+              "title": "index"
             }
           }
         ],
@@ -187,12 +187,13 @@
   },
   "active": "58444a060709f15c",
   "lastOpenFiles": [
+    "Introduzione al corso.md",
+    "index.md",
+    "Impresa/Forma giuridica.md",
+    "Impresa/Impresa.md",
     "data/Pasted image 20260223194003.png",
     "data",
     "Impresa",
-    "index.md",
-    "Impresa/Impresa.md",
-    "Introduzione al corso.md",
     "VHDL/Linguaggio VHDL.md",
     "Reti logiche/Logiche programmabili.md",
     "Reti logiche/Algebra di Boole.md",
@@ -215,7 +216,6 @@
     "data/Pasted image 20260114141349.png",
     "Dispensa 2a parte API.md",
     "data/Pasted image 20251218181725.png",
-    "data/Pasted image 20251218162151.png",
     "Algebra di Boole/Reti logiche/Circuiti sequenziali/Analisi delle macchine sequenziali.md",
     "Sintesi di reti combinatorie a più livelli.md",
     "Algebra di Boole/Reti logiche/Sintesi di reti combinatorie a più livelli.md",
