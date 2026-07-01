@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Contabilità esterna/Stato patrimoniale.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "58444a060709f15c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
+              "title": "Stato patrimoniale"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,53 +170,52 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "58444a060709f15c",
+  "active": "211b4075f4840778",
   "lastOpenFiles": [
-    "Introduzione al corso.md",
+    "Contabilità esterna/Contabilità esterna.md",
+    "Contabilità esterna/Stato patrimoniale.md",
+    "data/Pasted image 20260701163436.png",
     "index.md",
+    "Contabilità esterna/Conto economico.md",
+    "Contabilità esterna/Ratei e riscontri.md",
+    "data/Pasted image 20260701152643.png",
+    "Contabilità esterna/Conto economico 1.md",
+    "Microeconomia/Beni.md",
+    "Microeconomia/Mercato.md",
+    "Microeconomia/Microeconomia.md",
+    "Decisioni di breve periodo/Decisioni di breve periodo.md",
+    "Analisi degli investimenti/Indici.md",
+    "Analisi degli investimenti/Investimenti.md",
+    "Analisi degli investimenti/Analisi degli investimenti.md",
+    "Introduzione al corso.md",
+    "Impresa/Organizzazione aziendale.md",
+    "Contabilità interna/Budget.md",
+    "Contabilità interna/Rilevazione dei costi.md",
+    "Contabilità interna/Classificazione dei costi.md",
+    "Contabilità interna/Contabilità interna.md",
+    "Contabilità esterna/Analisi di bilancio.md",
+    "Contabilità esterna/Costruzione di SP e CE.md",
     "Impresa/Forma giuridica.md",
-    "Impresa/Impresa.md",
+    "Microeconomia",
+    "Decisioni di breve periodo",
+    "Analisi degli investimenti",
+    "Contabilità interna",
+    "Contabilità esterna",
     "data/Pasted image 20260223194003.png",
+    "Impresa/Impresa.md",
     "data",
     "Impresa",
     "VHDL/Linguaggio VHDL.md",
     "Reti logiche/Logiche programmabili.md",
-    "Reti logiche/Algebra di Boole.md",
-    "Reti logiche/Circuiti sequenziali/Circuiti sequenziali.md",
-    "Aritmetica/Numeri a virgola mobile.md",
-    "Aritmetica/Aritmetica binaria.md",
-    "VHDL/Process.md",
-    "Reti logiche/Sintesi di reti combinatorie a due livelli.md",
-    "Reti logiche/Segnali binari.md",
     "data/Pasted image 20260117173911.png",
     "data/Pasted image 20260117173419.png",
     "data/Pasted image 20260117173250.png",
-    "Reti logiche/Circuiti sequenziali/Sintesi sequenziale sincrona.md",
-    "Reti logiche/Circuiti sequenziali/Registri.md",
     "data/Pasted image 20260114143341.png",
     "data/Pasted image 20260114142550.png",
     "data/Pasted image 20260114142511.png",
-    "Reti logiche/Circuiti sequenziali/FSM non completamente specificate.md",
     "data/Pasted image 20260114141903.png",
-    "data/Pasted image 20260114141349.png",
-    "Dispensa 2a parte API.md",
-    "data/Pasted image 20251218181725.png",
-    "Algebra di Boole/Reti logiche/Circuiti sequenziali/Analisi delle macchine sequenziali.md",
-    "Sintesi di reti combinatorie a più livelli.md",
-    "Algebra di Boole/Reti logiche/Sintesi di reti combinatorie a più livelli.md",
     "Aritmetica",
     "Reti logiche/Circuiti sequenziali",
-    "temp/09-16.md",
-    "Componenti fisiche di internet.md",
-    "VHDL",
-    "Reti logiche",
-    "Algebra di Boole",
-    "temp",
-    "Funzioni a più variabili/Calcolo integrale/Integrale triplo.md",
-    "Funzioni a più variabili/Ottimizzazione/Ottimizzazione libera.md",
-    "Dimostrazioni.md",
-    "Funzioni a più variabili/Calcolo differenziale/Derivabilità di funzioni a più variabili.md",
-    "Equazioni differenziali/Studio qualitativo",
-    "Funzioni a più variabili/Calcolo integrale"
+    "VHDL"
   ]
 }
