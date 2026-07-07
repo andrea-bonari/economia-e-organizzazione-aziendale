@@ -22,6 +22,10 @@ Si nota che alcune risorse fondamentali per l'impresa solitamente non compaiono 
 >Questi criteri valutano le risorse (attività) e le fonti di finanziamenti di pertinenza di terzi (passività) in base alla loro capacità di trasformarsi in risorse monetarie nel breve termine (entro l'anno).
 >
 >![[Pasted image 20260701152643.png|center]]
+>
+>Più nel dettaglio:
+>
+>![[Pasted image 20260702122015.png|center]]
 
 ### Attività non correnti
 >[!note]
@@ -56,3 +60,102 @@ Le attività non correnti possono essere aggregate in:
 - Attività materiali: risorse aventi natura prevalentemente "fisica" ed il cui impiego naturale per l'impresa si estende oltre l'esercizio di riferimento
 - Attività immateriali: attività prive di consistenza fisica, controllate dall'impresa e in grado di produrre benefici economici
 - Altre attività non correnti: come partecipazioni ad azioni di altre imprese, o titoli, crediti finanziari o altre attività finanziarie
+
+### Attività correnti
+>[!note]
+>Le attività correnti sono attività liquide o destinate a trasformarsi in liquidità entro l'esercizio successivo. Tra le categorie principali troviamo:
+>- Cassa e altre disponibilità liquidi equivalenti
+>- Scorte/Rimanenze di magazzino
+>- Crediti commerciali
+>- Attività finanziarie correnti
+>- Ratei e riscontri attivi
+>- Altre attività correnti
+
+Sotto disponibilità liquide o cassa troviamo:
+- valori contanti in cassa aziendale
+- depositi bancari e postali
+- titoli di stato di breve
+
+Sotto scorte/rimanenze troviamo beni posseduti per la vendita o impiegati nei processi produttivi o nella prestazione di servizi (materie prime, semilavorati o prodotti finiti invenduti).
+
+Sotto crediti commerciali troviamo crediti verso clienti a cui si è accordata un dilazione di pagamento (prodotti per cui l'impresa non è ancora stata pagata).
+
+Sotto lavori in corso su ordinazione troviamo contratti stipulato specificamente per la costruzione di un bene o di una combinazione di beni.
+
+Infine, sotto attività finanziarie correnti troviamo:
+- Titoli e altre attività finanziarie, diverse dalle partecipazioni, detenute per negoziazione o disponibili per la vendita nell'arco dell'esercizio
+- Altre partecipazioni
+- Derivati di copertura relativi ad attività correnti
+- Altre voci residuali
+
+### Patrimonio netto
+>[!note]
+>Definiamo il patrimonio netto come il valore dei diritti vantati sull'impresa dagli azionisti/proprietari per il capitale versato e/o  maturati in seguito alle attività di funzionamento dell'impresa (per questo il patrimonio netto è detto residuale). Questo comprende:
+>- Capitale sociale
+>- Risultati dell'esercizio (utili/perdite)
+>- Riserve
+
+>[!tip] Capitale sociale
+>Il capitale sociale è il capitale conferito dagli azionisti/soci all'impresa, o all'atto della sottoscrizione del capitale iniziale, oppure in seguito ad aumenti di capitale. Gli aumenti di capitale possono essere gratuiti, spostando riserve in capitale, a titolo oneroso, versando direttamente nelle casse dell'impresa secondo la propria quota, oppure a pagamento, tramite emissioni di azioni/quote. Queste ultime possono essere:
+>- Senza sovraprezzo (le azioni sono vendute al loro valore nominale)
+>- Con sovraprezzo (sono vendute ad un prezzo maggiore)
+>
+>Quando si verifica un aumento di capitale gratuito vengono spostati i diritti dalle Riserve al Capitale sociale, senza emettere nuove azioni o accogliere nuovi soci, di conseguenza l'incremento di cassa è nullo.
+>
+>Quando si verifica un aumento di capitale oneroso, i soci/azionisti esistenti versano denaro direttamente nelle casse dell'impresa, e quindi l'incremento di cassa equivale all'incremento di valore capitale.
+>
+>In caso di emissioni di azioni/quote l'aumento di capitale è pari a: $$\# \text{ azioni}\cdot \text{valore nominale}$$
+>Mentre l'aumento di cassa ha valore pari: $$\#\text{ azioni}\cdot \text{prezzo di mercato}$$
+>
+>L'eventuale differenza positiva tra le due è registrata come riserva sovrapprezzo azioni.
+
+>[!tip] Utili
+>L'utile di un esercizio è il risultato economico di pertinenza degli azionisti maturato alla fine dell'esercizio cui si riferisce il bilancio, ed è pari al valore riportato alla fine del conto economico.
+>
+>Gli utili portati a nuovo sono invece la somma di tutti gli utili che l'impresa ha deciso di non distribuire agli azionisti, ad esempio, per motivi di autofinanziamento interno. Questi sono delle riserve.
+>
+>Queste sono le uniche voci dello SP che possono assumere valori negativi.
+
+>[!tip] Riserva da rivalutazione
+>La riserva da rivalutazione incorpora gli effetti delle modifiche di valore derivanti dall'applicazione del criterio del fair value.
+>
+>Quando si iscrive a bilancio si segna: $$\text{fair value attivo}-\text{valore precedente attivo}$$
+>
+>Le rivalutazioni di attività non correnti vanno generalmente incluse nello stato patrimoniale, tuttavia nel caso riguardino attività finanziarie, vanno contabilizzate nel conto economico.
+
+### Passività
+>[!note]
+>Le passività sono diritti di terzi sulle risorse dell'impresa. Queste si possono distinguere fra:
+>- Passività finanziarie
+>- Fondo TFR e altri fondi relativi al personale
+>- Fondo per rischi e oneri
+>- Debiti commerciali
+>- Ratei e riscontri
+
+>[!tip] Passività finanziarie
+>Le passività finanziare sono diritti vantati da soggetti terzi che hanno finanziato l'impresa, possono essere:
+>- Non correnti: non esauriscono il loro impatto all'interno dell'esercizio successivo
+>- Correnti: esauriscono il loro impatto all'interno dell'esercizio successivo
+>
+>Queste si possono distinguere in:
+>- Obbligazioni: titoli di credito che rappresentano una frazione di un'operazione di finanziamento. Quando viene emessa l'emittente si impegna a restituire il capitale scritto sul titolo alla scadenza del prestito ed effettuare una serie di pagamenti periodici calcolati in base ad un tasso d'interesse prestabilito. Sono iscritti al bilancio con fair value
+>- Debiti verso banche: cioè debiti finanziari contratti dall'impresa con banche, istituti di credi e società finanziarie, e si iscrivono al bilancio con fair value
+
+>[!tip] Fondo TFR e altri fondi relativi al personale
+>Questi sono obblighi verso i dipendenti da liquidare all'interruzione del rapporto lavorativo (TFR) o alla data della pensione, e sono creati con accantonamenti annui. Questi sono sempre non correnti e si iscrivono al bilancio con una stima di ente esterno.
+
+>[!tip] Fondi rischi e oneri
+>Questi sono accantonamenti per far fronte ad eventi che alla data di chiusura dell'esercizio sono incerti nell'ammontare o nella scadenza. Servono quindi a far fronte ad un evento probabili ed importo stimabile.
+>
+>Possono essere passività potenziali, cioè perdite originate da situazioni esistenti ma incerte, subordinate a eventi futuri, oppure passività indeterminate, cioè incertezze sia per la data sopravvenienza o ammontare.
+>
+>Si iscrivono al bilancio con una stima
+
+>[!tip] Debiti commerciali
+>Questi sono pagamenti differiti verso i fornitori sorti per costi relativi all'acquisto di materie prime, servizi, costi per godimento di beni di terzi.
+>
+>In generale sono passività correnti, e si iscrivono al bilancio con il costo di acquisto.
+
+>[!tip] Altre passività
+>Queste includono imposte sul reddito dell'esercizio calcolate sulla base della stima del reddito imponibile, e si iscrivono al bilancio con un valore che si prevede di pagare alle autorità fiscali applicando le aliquote e la normativa fiscale vigente.
+

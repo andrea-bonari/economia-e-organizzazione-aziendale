@@ -72,3 +72,35 @@ Il bilancio deve essere approvato dall'assemblea dei soci, che generalmente si r
 >
 >Non esiste uno standard specifico per queste informazioni, ma ci sono delle best practices.
 
+### Costruzione di SP e CE
+>[!note]
+>Si ha che l'insieme delle risorse dell'impresa coincide con i diritti che i finanziatori dell'impresa hanno sulla stessa, da cui: $$\text{totale attività}\equiv\text{totale passività}+\text{patrimonio netto}$$
+>E nel matrimonio netto si considera l'utile di esercizio, in quanto aumenta i diritti degli azionisti sulle risorse dell'impresa: $$\text{utile dell'esercizio}=\text{ricavi}-\text{costo}$$
+>
+>Le transazioni che coinvolgono l'impresa nel corso di un esercizio possono essere di 3 tipi principali:
+>- Transazioni che mantengono invariato il totale delle attività/passività/patrimonio netto
+>- Transazioni che modificano il totale delle attività/passività/patrimonio netto con effetti sul conto economico
+>- Transazioni che modificano il totale delle attività/passività/patrimonio netto senza effetti sul conto economico
+
+La redazione del bilancio si basa sull'applicazione del metodo della partita doppia, questo prevede la doppia e simultanea rilevazione contabile dell'evento in due conti o mastrini. Ogni voce, sia di SP che di CE viene rappresentate in dei diagrammi a T a due sezioni.
+
+![[Pasted image 20260707143621.png|center|697]]
+
+Le voci di SP vanno sempre inizializzate (cioè vado ad inserire nei mastrini le voci iniziali dell'SP).
+![[Pasted image 20260707143744.png]]
+
+Le voci di costo economico hanno la caratteristica di essere considerati solo in una delle due sezioni del mastrino, e non vanno mai inizializzate.
+![[Pasted image 20260707143822.png]]
+
+Dalle formule precedenti, possiamo quindi ricavare che: $$\text{totale attività}+\text{costi}\equiv \frac{\text{totale passività}}{\text{patrimonio netto}}+\text{ricavi}$$
+Che è coerente con questi mastrini.
+
+>[!tip] Costruzione del bilancio
+>È possibile articolare la procedura di redazione del bilancio in 5 fasi:
+>1. Apertura dei conti per tutte le voci
+>2. Registrazione delle operazioni avvenute nel costo dell'esercizio contabile
+>3. Chiusura dei conti e determinazione del saldo totale delle singole voci
+>4. Determinazione dell'utile di esercizio (CE, SP)
+>   
+>Se abbiamo correttamente applicato la partita doppia, l'utile di conto economico sarà uguale alla differenza fra attivo e passivo, ma non sarà garanzia di avere fatto tutto giusto.
+
