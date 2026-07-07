@@ -11,6 +11,7 @@ Il corso introduce il funzionamento delle imprese partendo dai loro obiettivi, d
 4. [[Contabilità interna]]
 	1. [[Rilevazione dei costi]]
 	2. [[Budget]]
+	3. [[Analisi degli scostamenti]]
 5. [[Organizzazione aziendale]]
 6. [[Analisi degli investimenti]]
 	1. [[Investimenti]]
